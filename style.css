@@ -1,0 +1,19 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border:800px 700px blue red green darkgoldenrod solid saddlebrown;
+    background-color: rgb(219, 242, 246); 
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
